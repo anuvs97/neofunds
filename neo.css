@@ -33,6 +33,7 @@ b{
 select{
     background-color: var(--color1);
     border: 0px;
+    outline:none;
 }
 .nav1 ul li{
     list-style-type: none;
