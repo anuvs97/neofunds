@@ -314,6 +314,7 @@ li input:focus{
         flex: 100%; 
         margin-bottom: 20px; 
         font-size: large;
+        padding-Right:0%;
     }
     .content2 .non{
         display: none;
