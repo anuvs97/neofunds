@@ -116,9 +116,7 @@ li input:focus{
 .content1,.content2, .content6{
     flex: 50%; 
 }
-.content1 >p,h1{
-    text-align: center;
-}
+
 .content1 a{
     padding: 10px 24px;
     background-color:var(--color2) ;
@@ -135,6 +133,9 @@ li input:focus{
     .content1,.content2{
         padding: 0%;
         flex: 100%;
+    }
+    .content1 >p,h1{
+    text-align: center;
     }
     .content1 p{
         line-height: 1.6;
